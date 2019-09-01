@@ -53,3 +53,8 @@ Pull requests are welcome.
 - [ ] Make the CSV format less awful
 - [ ] Better generation of phone numbers based on numbering plans
 - [ ] Module support
+
+## See Also
+
+- [email2phonenumber](https://github.com/martinvigo/email2phonenumber)
+- [Gmail-Enum](https://github.com/H3LL0WORLD/Gmail-Enum)
